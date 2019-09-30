@@ -23,6 +23,7 @@
         <module>core</module>
         <module>time</module>
         <module>payroll</module>
+	<module>tools</module>
     </modules>
 
     <dependencies>
